@@ -18,8 +18,6 @@ const Greethings=()=>{
         style.color='black'
     }
 
-    
-
 
     return(<div className="divb">
         <h1>hello sir <span style={style}>{greet}</span></h1>
